@@ -29,7 +29,7 @@ I am looking for a **Gap-year RA/Phd 24-Spring/Phd 24-Fall**. Here is my [CV](ht
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval
+Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval, **ICLR 2023**
 
 [[pdf](https://openreview.net/pdf?id=PQOlkgsBsik)][[code](https://github.com/OpenMatch/UniVL-DR)]
 
@@ -74,10 +74,10 @@ We used U‐net to classify the fundus image at the pixel level, setting the pix
 - *2019.09 - 2023.06 (now)*, <br/>Bachelor in Artificial Intelligence, Northeastern University, Shenyang, China. 
 
 # Honors and Awards
-- *2020.09* Outstanding Students Scholarship, Northeastern University. 
-- *2021.09* Outstanding Students Scholarship, Northeastern University. 
-- *2023.09* Outstanding Students Scholarship, Northeastern University.
-- *2021.11* The First Prize in China Undergraduate Mathematical Contest in Modeling, CSIAM.
+- *2020.09* **Outstanding Students Scholarship**, Northeastern University. 
+- *2021.09* **Outstanding Students Scholarship**, Northeastern University. 
+- *2023.09* **Outstanding Students Scholarship**, Northeastern University.
+- *2021.11* **The First Prize in China Undergraduate Mathematical Contest in Modeling**, CSIAM.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
