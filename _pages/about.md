@@ -21,7 +21,7 @@ I’m now a fourth‐year undergraduate student in Northeastern University (Shen
 
 My research interests include Deep Learning(DL), Multimodal Learning, Natural Language Processing(NLP) and Information Retrieval(IR).
 
-I am looking for a gap-year RA/Phd 24-Spring/Phd 24-Fall.
+I am looking for a **Gap-year RA/Phd 24-Spring/Phd 24-Fall**. Here is my [CV](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf).
 
 # 📝 Publications 
 
