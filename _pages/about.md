@@ -44,7 +44,7 @@ This paper presents Universal Vision-Language Dense Retrieval (UniVL-DR), which 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📝 Projects
+<!-- # 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,7 @@ We explore the differences in performance among Full Fine‐tuning, Bias‐term 
 
 [Fundus Image Segmentation Base On U‐Net](https://github.com/QC-LY/Fundus-Image-Segmentation)
 
-We used U‐net to classify the fundus image at the pixel level, setting the pixels in the vascular region to 1 and the pixels in the non‐vascular region to 0 to create a binary image that would segment the vascular region in the 2D fundus image.
+We used U‐net to classify the fundus image at the pixel level, setting the pixels in the vascular region to 1 and the pixels in the non‐vascular region to 0 to create a binary image that would segment the vascular region in the 2D fundus image. -->
 
 # 📖 Educations
 - *2019.09 - 2023.06 (now)*, <br/>Bachelor in Artificial Intelligence, Northeastern University, Shenyang, China. 
