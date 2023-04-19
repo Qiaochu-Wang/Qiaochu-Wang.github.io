@@ -25,7 +25,7 @@ I am looking for a gap-year RA/Phd 24-Spring/Phd 24-Fall.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='https://github.com/QC-LY/acad-homepage.github.io/_pages/images/UniVL-DR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='https://github.com/QC-LY/acad-homepage.github.io/images/UniVL-DR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
