@@ -23,7 +23,7 @@ My research interests include Deep Learning(DL), Multimodal Learning, Natural La
 
 I am looking for a **Gap-year RA/Phd 24-Spring/Phd 24-Fall**. Here is my [CV](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf).
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='../images/UniVL-DR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,7 +47,7 @@ This paper presents Universal Vision-Language Dense Retrieval (UniVL-DR), which 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 📝 Projects
+# Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,10 +70,10 @@ We used U‐net to classify the fundus image at the pixel level, setting the pix
 </div>
 </div>
 
-# 📖 Educations
+# Educations
 - *2019.09 - 2023.06 (now)*, <br/>Bachelor in Artificial Intelligence, Northeastern University, Shenyang, China. 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2020.09* Outstanding Students Scholarship, Northeastern University. 
 - *2021.09* Outstanding Students Scholarship, Northeastern University. 
 - *2023.09* Outstanding Students Scholarship, Northeastern University.
