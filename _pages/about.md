@@ -46,7 +46,7 @@ This paper presents Universal Vision-Language Dense Retrieval (UniVL-DR), which 
 
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
@@ -54,7 +54,7 @@ This paper presents Universal Vision-Language Dense Retrieval (UniVL-DR), which 
 
 We explore the differences in performance among Full Fine‐tuning, Bias‐term Fine‐tuning and Prompt‐tuning in the process of building a pre‐ training‐based sentiment classification model. To improve the performance of the prompt, we build a knowledge‐based verbalizer by acquiring knowledge from WordNet.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/fundus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/fundus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fundus Image Segmentation Base On U‐Net](https://github.com/QC-LY/Fundus-Image-Segmentation)
