@@ -55,7 +55,7 @@ This paper presents Universal Vision-Language Dense Retrieval (UniVL-DR), which 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 [Prompt Tuning For Sentiment Classification Base On Pre‐trained Language Models](https://github.com/QC-LY/Prompt-Tuning-For-Sentiment-Classification)
 
-We explore the differences in performance among Full Fine‐tuning, Bias‐term Fine‐tuning and Prompt‐tuning in the process of building a pre‐ training‐based sentiment classification model. To improve the performance of the prompt, we build a knowledge‐based verbalizer by acquiring knowledge from WordNet.
+We explore the differences in performance among Full Fine‐tuning, Bias‐term Fine‐tuning and Prompt‐tuning in the process of building a pre‐ training‐based sentiment classification model. Our method base on prompt-tuning achieved good results on the test set
 
 </div>
 </div>
