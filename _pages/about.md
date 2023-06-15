@@ -21,7 +21,8 @@ I’m now a fourth‐year undergraduate student in Northeastern University (Shen
 
 My research interests include Deep Learning(DL), Multimodal Learning, Natural Language Processing(NLP) and Information Retrieval(IR).
 
-I am looking for a **RA/PhD position**. Here is my [CV](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf).
+I am looking for a **RA/PhD position**. Here is my <a href="https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf"></a>
+[CV](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf).
 
 # 📝 Publications 
 
