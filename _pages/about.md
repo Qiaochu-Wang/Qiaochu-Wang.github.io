@@ -23,7 +23,7 @@ Here is my CV[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/
 
 
 # 📖 Educations
-- *2019.09 - now*, <br/>Bachelor in Dental Medicine, China Medical University, Shenyang, China. <br/>Average score(first 4 years): **87.49/100**
+- *2019.09 - now*,   Bachelor in Dental Medicine, China Medical University, Shenyang, China. <br/>Average score(first 4 years): **87.49/100**
 
 # 🎖 Honors and Awards
 - *2020.09* **Outstanding Students Scholarship**, China Medical University. 
