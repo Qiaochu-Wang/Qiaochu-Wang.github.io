@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m now a fifth‐year undergraduate student in China Medical University (中国医科大学), and affiliated with the School of Dental Medicine.
+I’m now a fifth‐year undergraduate student in China Medical University (中国医科大学), and affiliated with the School of Stomatology.
 
 Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf)][[中文](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/wqc_cv_chinese.pdf)].
 
 
 # 📖 Educations
-- *2019.09 - now*,   Bachelor in **Dental Medicine**, **China Medical University**, Shenyang, China. <br/>Average score(first 4 years): **87.49/100**
+- *2019.09 - now*,   Bachelor in **Stomatology**, **China Medical University**, Shenyang, China. <br/>Average score(first 4 years): **87.49/100**
 
 # 🎖 Honors and Awards
 - *2020.09* **Outstanding Students Scholarship**, China Medical University. 
@@ -31,6 +31,6 @@ Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files
 
 
 # 💻 Internships
-- *2022.06 - 2022.09*, The First People's Hospital of Chaoyang, China.
-- *2023.06 - now*, China Medical University Dental Hospital, China.
+- *2022.06 - 2022.09*, The Centre Hospital of Chaoyang, Chaoyang, China.
+- *2023.06 - now*, China Medical University Hospital Of Stomatology, Shenyang, China.
 
