@@ -35,5 +35,5 @@ Here is my CV[[English](https://github.com/Qiaochu-Wang/Qiaochu-Wang.github.io/b
 - *2023.06 - now*, China Medical University Hospital of Stomatology, Shenyang, China.
 
 # 💻 Research
-- *2022.10 - now*, **Virtual Hands-on Platform for Cavity Preparation of Dental Subclasses(牙齿亚类洞型制备的虚拟实践操作平台)** <br/>**Second** in charge of scientific research projects
+- *2022.10 - now*, **Virtual Hands-on Exercises for The Preparation of Dental Class II Cavities(牙齿II类洞型制备的虚拟实践操作平台)** <br/>**Second** in charge of scientific research projects
 
