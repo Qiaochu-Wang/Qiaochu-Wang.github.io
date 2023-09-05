@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiaochu Wang (王翘楚)"
-  avatar           : "images/wqc.jpg"
+  avatar           : "images/wqc.png"
   bio              : "China Medical University"
   location         : "Shenyang, China"
   employer         :
