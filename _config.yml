@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanhuiyi Lyu"
-description              : "Undergraduate Student in Northeastern University"
-repository               : "QC-LY/QC-LY.github.io"
+title                    : "Qiaochu Wang"
+description              : "Undergraduate Student in China Medical University"
+repository               : "Qiaochu-Wang/Qiaochu-Wang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanhuiyi Lyu (吕原汇一)"
-  avatar           : "images/lyhy.jpg"
-  bio              : "Northeastern University"
+  name             : "Qiaochu Wang (王翘楚)"
+  avatar           : "images/wqc.jpg"
+  bio              : "China Medical University"
   location         : "Shenyang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6_lvla4AAAAJ&hl=zh-CN"
-  email            : "lvyuanhuiyi@foxmail.com"
+  # googlescholar    : ""
+  email            : "wangqiaochu0928@foxmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : QC-LY # e.g., "github username"
+  # github           : QC-LY # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
