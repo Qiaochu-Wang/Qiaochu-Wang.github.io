@@ -19,7 +19,7 @@ redirect_from:
 
 I’m now a fifth‐year undergraduate student in China Medical University (Shenyang, China), and affiliated with the School of Dental Medicine.
 
-Here is my CV[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf).
+Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf)][[中文](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf)].
 
 
 # 📖 Educations
