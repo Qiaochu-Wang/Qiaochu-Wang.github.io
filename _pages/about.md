@@ -34,3 +34,6 @@ Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files
 - *2022.06 - 2022.09*, The Centre Hospital of Chaoyang, Chaoyang, China.
 - *2023.06 - now*, China Medical University Hospital of Stomatology, Shenyang, China.
 
+# 💻 Research
+- *2022.10 - now*, **Virtual Hands-on Platform for Cavity Preparation of Dental Subclasses**. <br/>**Second** in charge of scientific research projects
+
