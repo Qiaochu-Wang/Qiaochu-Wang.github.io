@@ -32,5 +32,5 @@ Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files
 
 # 💻 Internships
 - *2022.06 - 2022.09*, The Centre Hospital of Chaoyang, Chaoyang, China.
-- *2023.06 - now*, China Medical University Hospital Of Stomatology, Shenyang, China.
+- *2023.06 - now*, China Medical University Hospital of Stomatology, Shenyang, China.
 
