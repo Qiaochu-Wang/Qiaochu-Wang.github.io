@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m now a fifth‐year undergraduate student in China Medical University (Shenyang, China), and affiliated with the School of Dental Medicine.
+I’m now a fifth‐year undergraduate student in China Medical University (中国医科大学), and affiliated with the School of Dental Medicine.
 
 Here is my CV[[English](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf)][[中文](https://github.com/QC-LY/QC-LY.github.io/blob/main/files/lyhy-cv.pdf)].
 
